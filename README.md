@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
+<h1 align="center">Hi 👋, Myself Harsh Vardhan Singh</h1>
 <h3 align="center">A Professional Web Developer specializing in MERN Stack</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshvardhan-dev" alt="harshvardhan-dev" /></a> </p>
