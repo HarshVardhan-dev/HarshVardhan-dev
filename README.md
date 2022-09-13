@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-vardhan-singh-b4a45119a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-vardhan-singh-b4a45119a/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/dashboard/settings?workspace=9f2cfdfa-a1bb-470c-8bc5-a6da6454a0ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/settings?workspace=9f2cfdfa-a1bb-470c-8bc5-a6da6454a0ba" height="30" width="40" /></a>
 <a href="https://medium.com/@harshdotjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshdotjs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/harshvardhan-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harshvardhan-dev/" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/egd5l9hcj8ew72bqdz5bl28zzt9anqjiekgt8juf/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/egd5l9hcj8ew72bqdz5bl28zzt9anqjiekgt8juf/profile" height="30" width="40" /></a>
 </p>
 
